@@ -6,6 +6,6 @@ Comosició grup "Programació Móbils":
   Martí Vila
 
 Fem el projecte a VS Code y actualitzema amb:
-*  git add .                         # prepara todos los cambios *
+  git add .                         # prepara todos los cambios 
   git commit -m "Mensaje del cambio"
-  git push                          # sube los commits a GitHub **
+  git push                          # sube los commits a GitHub 
